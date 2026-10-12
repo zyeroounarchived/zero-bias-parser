@@ -1,0 +1,4 @@
+node_modules/
+.env
+resume.pdf
+.DS_Store
